@@ -48,9 +48,11 @@ open target/site/serenity/index.html
 - Open class "CucumberTestSuite"
 - Execute class
 
-## Improvement bucket lists
+## Improvement bucket lists (TODO)
+- Add API test solution
 - Configurable URL for each test environments (mentioned in README.original.md)
 - Testable on more than one browser locally or APIs like BrowserStack (mentioned in README.original.md)
 - Cover more test cases
 - Learn how ScreenPlay feature of Serenity framework works with multiple actors
 - Learn other frameworks such as Cypress since it has video recording & compare
+- Explore CI/CD integration
